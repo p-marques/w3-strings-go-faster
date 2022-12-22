@@ -1,0 +1,13 @@
+; lines starting with ";" are ignored
+; first line must be id line
+id=1738
+panel_Mods=Mods
+panel_bcc_ModName=Better Call Ciri
+option_bcc_blockLooting=Block Looting
+option_bcc_enableRageMode=Enable Ciri Rage
+option_bcc_suppressRageEffect=Suppress Rage FX
+option_bcc_appearance=Appearance
+preset_value_bcc_appearance_default=Default
+preset_value_bcc_appearance_default_winter=Default (Winter)
+preset_value_bcc_appearance_bandaged=Bandaged
+bcc_looting_blocked=Better Call Ciri is blocking looting. Check settings.
