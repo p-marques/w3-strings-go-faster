@@ -1,3 +1,5 @@
 *.w3strings
 encoder-path.txt
 dist/
+*.7z
+*.zip
